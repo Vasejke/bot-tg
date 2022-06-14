@@ -1,5 +1,5 @@
 {
-  "name": "Sample Bot magnetto",
+  "name": "bot",
   "version": "1.0.0",
   "description": "Template for Telegram Bot",
   "main": "index.js",
